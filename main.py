@@ -573,7 +573,7 @@ async def txt_handler(bot: Client, m: Message):
 
             try:  
                 cc = f'**🌟 {name1}[@SABHAIJEEKA].mkv\n\n<pre><code>{PW}\n\n👑 𝗕𝗮𝘁𝗰𝗵 ➤ {b_name}</code></pre>\n\n📥 𝗙𝗼𝗿 𝗠𝗼𝗿𝗲 ➤ @Jeekamilegabot**'
-                cc1 = f'**🌟 {name1}[@SABHAIJEEKA].pdf\n\n<pre><code>{MR}\n\n👑 𝗕𝗮𝘁𝗰𝗵 ➤ {b_name}</code></pre>\n\n📥 𝗙𝗼𝗿 𝗠𝗼𝗿𝗲 ➤ @Jeekamilegabot**'
+                cc1 = f'**🌟 {name1}[@SABHAIJEEKA].pdf\n\n<pre><code>{PW}\n\n👑 𝗕𝗮𝘁𝗰𝗵 ➤ {b_name}</code></pre>\n\n📥 𝗙𝗼𝗿 𝗠𝗼𝗿𝗲 ➤ @Jeekamilegabot**'
                 cczip = f'——— ✨ [{str(count).zfill(3)}]({link0}) ✨ ———\n\n📁𝐓𝐢𝐭𝐥𝐞 » `{name1}` .zip\n\n<pre><code>📚 Course : {b_name}</code></pre>\n\n🌟𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐞𝐝 𝐁𝐲 » {CR}\n'  
                 ccimg = f'——— ✨ [{str(count).zfill(3)}]({link0}) ✨ ———\n\n🖼️𝐓𝐢𝐭𝐥𝐞 » `{name1}` .jpg\n\n<pre><code>📚 Course : {b_name}</code></pre>\n\n🌟𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐞𝐝 𝐁𝐲 » {CR}\n'
                 cccpvod = f'——— ✨ [{str(count).zfill(3)}]({link0}) ✨ ———\n\n🎞️𝐓𝐢𝐭𝐥𝐞 » `{name1}` .mp4\n\n<a href="{urlcpvod}">__**Click Here to Watch Stream**__</a>\n🔗𝐋𝐢𝐧𝐤 » {link0}\n\n<pre><code>📚 Course : {b_name}</code></pre>\n\n🌟𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐞𝐝 𝐁𝐲 » {CR}\n'
